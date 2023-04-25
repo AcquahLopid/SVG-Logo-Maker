@@ -55,6 +55,8 @@ init();
 ## Credits
 [Circle SVG W3Schools](https://www.w3schools.com/graphics/svg_circle.asp)
 
+[Square SVG W3Schools](https://www.w3schools.com/graphics/svg_rect.asp)
+
 [Render Method](https://upmostly.com/tutorials/understand-the-render-method-and-rendering-in-react)
 
 [Badges](https://naereen.github.io/badges/)
