@@ -1,0 +1,6 @@
+
+       <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+           <polygon points="120,10 210,150 50,150" fill =  "cyan" />
+           <text x="125" y="120" font-size = "60" text-anchor = "middle" fill="black">aaa</text>
+       </svg>
+   

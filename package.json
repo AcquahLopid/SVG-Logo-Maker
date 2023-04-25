@@ -1,13 +1,14 @@
 {
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^8.2.5",
+    "jest": "^29.5.0"
   },
   "name": "svg-logo-maker",
   "description": "*[Technology Used](#technology-used)",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",

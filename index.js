@@ -19,13 +19,12 @@ const questions = [{
     message : "Pick shape color:",
     type : "input",
     name : "shapeColor",
-},{
 }];
 
 // function that writes
 function writeToFile(fileName, data) {
     const text = generateLogo(data);
-    fs.appendFile(fileName, text, (err) =>
+    fs.writeFile(fileName, text, (err) =>
         err ? console.log(err) : console.log("Generated logo.svg")
             );
 }
