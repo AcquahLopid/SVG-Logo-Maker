@@ -1,5 +1,22 @@
 {
   "dependencies": {
-    "inquirer": "^9.2.0"
-  }
+    "inquirer": "^8.0.0"
+  },
+  "name": "svg-logo-maker",
+  "description": "*[Technology Used](#technology-used)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcquahLopid/SVG-Logo-Maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcquahLopid/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/AcquahLopid/SVG-Logo-Maker#readme"
 }

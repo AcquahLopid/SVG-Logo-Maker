@@ -7,7 +7,7 @@ const questions = [{
     type : "input",
     name : "characters",
 },{
-    message : "Pick a color: ",
+    message : "Pick a text color: ",
     type : "input",
     name : "color", 
 },{
@@ -26,7 +26,7 @@ const questions = [{
 function writeToFile(fileName, data) {
     const text = generateLogo(data);
     fs.appendFile(fileName, text, (err) =>
-        err ? console.log(err) : console.log("Successful!!!")
+        err ? console.log(err) : console.log("Generated logo.svg")
             );
 }
 
