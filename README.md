@@ -51,7 +51,7 @@ function init() {
 init();
 ```
 ## Video Example
-[Video Example Of Creating Logo](./Media/25.04.2023_01.56.33_REC.mp4)
+[Video Example Of Creating Logo](https://youtu.be/qxsvGqA7r_0)
 
 [Screenshot of Created Logo](./Media/Screenshot%202023-04-25%20015954.png)
 ## Credits
